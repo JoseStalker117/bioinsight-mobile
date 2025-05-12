@@ -13,11 +13,19 @@
 .externalNativeBuild
 .cxx
 /app/
+<<<<<<< HEAD
 /.idea/
 /gradle/
 /build/
 /*.jks
 /*.keystore
+=======
+# Archivos generados por Android Studio
+captures/
+.externalNativeBuild/
+
+# Archivos temporales
+>>>>>>> 1215247 (primer commit 11/05/2025)
 *.log
 *.tmp
 *.swp
